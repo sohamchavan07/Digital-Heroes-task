@@ -7,7 +7,7 @@ Goal tracking and management web application — simplify your goal-setting and 
 • [Next.js](https://nextjs.org/)
 • [TailwindCSS](https://tailwindcss.com/)
 • [Live Demo](https://your-demo-url.com)
-• [Portfolio](https://www.sohamchavan.site/)
+• [Portfolio](https://www.sohamcode.online/)
 
 ---
 
@@ -137,7 +137,7 @@ Contributions, issues and feature requests are welcome!
 
 **Soham Chavan**
 
-• [Portfolio](https://www.sohamchavan.site/)
+• [Portfolio](https://www.sohamcode.online/)
 • [LinkedIn](https://www.linkedin.com/in/sohamchavan07/)
 • [X/Twitter](https://x.com/soham_chavan07)
 

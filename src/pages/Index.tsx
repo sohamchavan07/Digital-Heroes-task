@@ -454,7 +454,7 @@ const Index = () => {
             <div className="flex items-center gap-2 text-muted-foreground">
               <span className="w-1.5 h-1.5 rounded-full bg-primary" />
               <p className="text-xs font-mono uppercase tracking-[0.2em]">
-                Developer: <a href="https://www.sohamchavan.site/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors underline decoration-primary/30 underline-offset-4">Soham Chavan</a>
+                Developer: <a href="https://www.sohamcode.online/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors underline decoration-primary/30 underline-offset-4">Soham Chavan</a>
               </p>
               <span className="w-1.5 h-1.5 rounded-full bg-primary" />
             </div>
